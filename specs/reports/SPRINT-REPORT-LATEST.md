@@ -9,7 +9,7 @@ This sprint's token/USD budget was used in full before Scrum Master's own `creat
 No backlog items recorded.
 
 ## Budget and Usage
-- Token usage: 104 / 100
+- Token usage: 106 / 100
 
 ## Open Questions for Stakeholder (Blockers)
 No stories are currently blocked.
