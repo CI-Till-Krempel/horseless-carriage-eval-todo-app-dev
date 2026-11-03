@@ -5,7 +5,7 @@
 - Status: Draft
 - Priority: Must
 - Owner: Scrum Team
-- Last Updated: 2026-11-02
+- Last Updated: 2026-11-03
 
 ## As a <role>, I want <capability>, so that <benefit>.
 
